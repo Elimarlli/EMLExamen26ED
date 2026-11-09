@@ -1,4 +1,4 @@
-/*import java.util.Scanner;
+import java.util.Scanner;
 
 public class MostrarNumeros {
     public static void main(String[] args){
@@ -42,4 +42,4 @@ public class MostrarNumeros {
     public static double potencia (double base, double exponente){
         return Math.pow(base, exponente);
     }
-}*/
+}
